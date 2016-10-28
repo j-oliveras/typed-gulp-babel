@@ -41,7 +41,7 @@ node_modules
 typings
 
 # output folder
-out
+**/out/**
 
 # vscode
 .vscode
