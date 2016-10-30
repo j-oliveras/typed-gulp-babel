@@ -1,7 +1,7 @@
 {
   "name": "gulp-babel",
   "main": "index.d.ts",
-  "homepage": "https://github.com/j-oliveras/typed-gulp-babel",
+  "homepage": "https://github.com/babel/gulp-babel",
   "version": "6.1.2",
   "globalDependencies": {
     "node": "registry:env/node#6.0.0+20161019193037"
